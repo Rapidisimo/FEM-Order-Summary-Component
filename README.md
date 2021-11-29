@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [FEM Solution Page](https://www.frontendmentor.io/solutions/responsive-order-summary-card-5KOGhFmkm)
 - Live Site URL: [Add live site URL here](https://rapidisimo.github.io/FEM-Order-summary-component/)
 
 ## My process
