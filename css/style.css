@@ -168,6 +168,9 @@ button:hover {
         max-width: 495px;
     }
     
+    .plan {
+        margin-bottom: 20px;
+    }
     .a-plan,
     .price {
         text-align: left;
