@@ -64,13 +64,16 @@ body {
 h1 {
     font-size: 1.5em;
     font-weight: 900;
-    padding: .5em;
 }
 
 p {
     color: hsl(224, 23%, 55%);
     font-weight: 500;
     padding: .5em;
+}
+
+a {
+    font-weight: 700;
 }
 
 .container {
@@ -151,4 +154,20 @@ button:hover {
     background-color: white;
     color: black;
     cursor: pointer;
+}
+
+/* Media Queries */
+
+@media (min-width: 470px) {
+ 
+ .card {
+    padding: 260px 40px 20px 40px;
+    max-width: 495px;
+ }
+ 
+ .a-plan,
+ .price {
+     text-align: left;
+ }
+
 }
