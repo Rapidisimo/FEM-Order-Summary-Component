@@ -159,15 +159,18 @@ button:hover {
 /* Media Queries */
 
 @media (min-width: 470px) {
- 
- .card {
-    padding: 260px 40px 20px 40px;
-    max-width: 495px;
- }
- 
- .a-plan,
- .price {
-     text-align: left;
- }
+
+    body {
+        background-image: url(../images/pattern-background-desktop.svg);
+    }
+    .card {
+        padding: 260px 50px 20px 50px;
+        max-width: 495px;
+    }
+    
+    .a-plan,
+    .price {
+        text-align: left;
+    }
 
 }
